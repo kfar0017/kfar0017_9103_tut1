@@ -1,7 +1,7 @@
 # kfar0017_9103_tut1
 # **Imaging Technique**
-![ImagingTechnique_1](imagingtechnique/Imagingtechnique1.png)
-![ImagingTechnique_2](imagingtechnique/Imagingtechnique2.png)
+![imagingtechnique1](imagingtechnique/Imagingtechnique1.png)
+![imagingtechnique2](imagingtechnique/Imagingtechnique2.png)
 I find this imaging technique inspiring because it mimics the way we paint an image on real canvas. We need to wait for particles to complete the pattern to see the whole picture, which for me quite intriguing to see how will the end results be like, and produce a surprising elements throughout the process until the end.
 
 # **Coding Technique**
